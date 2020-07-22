@@ -1,0 +1,10 @@
+body{
+    background-image: url(./images/index.png);
+
+    
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position-x: center;
+    /*background-color: rgb(219, 204, 121);
+    color: red;*/
+}
